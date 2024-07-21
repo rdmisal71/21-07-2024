@@ -1,0 +1,3 @@
+Distributed Version Control: Each developer has a full copy of the repository, including its entire history. This allows for offline work and decentralized collaboration.
+Efficient Branching and Merging: Git makes it easy and fast to create, merge, and delete branches. This supports workflows like feature branching and pull requests.
+Speed and Performance: Local operations are very fast since they don’t require network access. Commands like commit, diff, and log execute quickly.
