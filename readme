@@ -1,2 +1,1 @@
-Centralized Version Control: All files and their historical versions are stored in a central repository. This ensures all team members are always working with the latest version.
-Atomic Commits: SVN ensures that commits are atomic, meaning either all changes in a commit are applied, or none are. This prevents partial changes from causing inconsistencies.
+Centralized Version Control: All files and their historical versions are stored in a central repository. This ensures all team members are always working with the latest version.al changes from causing inconsistencies.
